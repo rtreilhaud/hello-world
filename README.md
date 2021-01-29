@@ -1,6 +1,6 @@
 # hello-world
 GitHub tutorial
 
-Hi ! I am Rémi.
+Hi! I am Rémi.
 
-I am just starting with GitHub
+I am just starting with GitHub!

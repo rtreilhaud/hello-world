@@ -1,2 +1,3 @@
-Hello World !
-<p> Je GIT </P>
+<?php
+
+echo "Hello World !";
